@@ -2037,6 +2037,10 @@ PrefabInstance:
       propertyPath: m_FlipY
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1298773976318110338, guid: 19524c83446a4f04c81106ffd0f78273, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 2881081777427064610, guid: 19524c83446a4f04c81106ffd0f78273, type: 3}
       propertyPath: m_Name
       value: Pipes
@@ -2081,9 +2085,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6282084946231030433, guid: 19524c83446a4f04c81106ffd0f78273, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     - target: {fileID: 6815295498761366383, guid: 19524c83446a4f04c81106ffd0f78273, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8217446161045365287, guid: 19524c83446a4f04c81106ffd0f78273, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8458206813252608753, guid: 19524c83446a4f04c81106ffd0f78273, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9106100539764167605, guid: 19524c83446a4f04c81106ffd0f78273, type: 3}
       propertyPath: m_LocalPosition.y
